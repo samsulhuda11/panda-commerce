@@ -24,3 +24,53 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat-1 {
+    background-image: linear-gradient(90deg, #bf8b03, #f4b002);
+}
+
+.cat-2{
+    background-image: linear-gradient(90deg, #9504d7, #e502f4);
+}
+
+.cat-3 {
+    background-image: linear-gradient(90deg, #434df4, #0902f4);
+}
+
+.cat-1, .cat-2, .cat-3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.categories h1 {
+    color: #fff;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.card-footer {
+    background-color: #fff;
+    border: none;
+
+}
+
+#contact-us {
+    height: 300px;
+    
+}
+
+#contact-us h6 {
+    color: gray;
+}
+
+footer {
+    text-align: center;
+}
